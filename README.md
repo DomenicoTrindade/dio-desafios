@@ -62,4 +62,4 @@ Desenvolver habilidades práticas em programação e acompanhar minha evolução
 
 Desenvolvido por **Domenico Trindade**
 
-[LinkedIn](www.linkedin.com/in/domenico-trindade)
+[LinkedIn](https://www.linkedin.com/in/domenico-trindade)
