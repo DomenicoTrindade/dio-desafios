@@ -52,4 +52,4 @@ Além do foco principal do desafio, foram incluídas melhorias simples:
 No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-python_desafio.py
+desafio_sistema_bancario.py
